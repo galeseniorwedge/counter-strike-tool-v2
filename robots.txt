@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://galeseniorwedge.github.io/counter-strike-tool-v2/sitemap.xml
